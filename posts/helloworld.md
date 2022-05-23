@@ -17,6 +17,6 @@ These custom operators let us combine a ton of features into a very basic set up
 
 <br/>
 
-Also, this site's markdown is hosted [here](https://github.com/WyattMarks/personal_site)! You can use those files with the markdown_site_generator to make this website!
+Also, this site's markdown is hosted [here](https://github.com/WyattMarks/personal_site)! You can use those files with the markdown\_site\_generator to make this website!
 
 All posts older than this one are from a previous incarnation of this website. I was a lot younger when I wrote them, so don't judge them too harshly!

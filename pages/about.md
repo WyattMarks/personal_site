@@ -1,6 +1,6 @@
 <!header!>
 
-Hello! My name is Wyatt Marks, and I am currently a senior in Computer Engineering at Southern Illinois University Edwardsville. I'm interested in firmware development, low level AI implementations, and lots more! Here's an overview of what I'm familiar with :toolbox:
+Hello! My name is Wyatt Marks, and I am currently getting my master's degree in Electrical and Computer Engineering at Southern Illinois University Edwardsville. I'm interested in firmware development, low level AI implementations, and lots more! Here's an overview of what I'm familiar with
 
 ### My Stack
 
@@ -19,3 +19,6 @@ You can always find me with [:email:email:email:](mailto:inbox@wyattmarks.com) o
 </a>  &nbsp;  &nbsp; <a href="https://github.com/WyattMarks/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wyattmarks&theme=gotham&show_icons=true&line_height=27&count_private=true" />
 </a>
+
+
+And of course, I have [my resume](<!base_url!>/downloads/resume.pdf).
